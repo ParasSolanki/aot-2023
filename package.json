@@ -1,0 +1,15 @@
+{
+  "name": "aot-2023",
+  "version": "1.0.0",
+  "description": "Solutions to Advent of Typescript 2023 Challenges",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "type-testing": "^0.2.0"
+  }
+}
